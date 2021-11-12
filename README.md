@@ -1,1 +1,1 @@
-# VHDL
+# Verilog-HDL
